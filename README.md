@@ -1,6 +1,6 @@
 # 🎬 Sistema de Cadastro de Obras
 
-Este é um projeto de estudo desenvolvido durante o **2º período** do curso, na disciplina de **Programação Orientada a Objetos (POO)**. O sistema consiste em um gerenciador de diferentes tipos de obras, permitindo cadastro e organização, aplicando conceitos fundamentais de Orientação a Objetos e da linguagem Java.
+Este é um projeto desenvolvido durante o **2º período** do curso de Análise e Desenvolvimento de Sistemas, na disciplina de **Programação Orientada a Objetos (POO)**. O sistema consiste em um gerenciador de diferentes tipos de obras, permitindo cadastro e organização, aplicando conceitos fundamentais de Orientação a Objetos e da linguagem Java.
 
 ---
 
@@ -10,10 +10,10 @@ O projeto oferece duas formas de execução (via terminal e interface gráfica v
 
 * **Interface Gráfica (Java Swing):** Janelas dedicadas e intuitivas.
 * **CRUD Completo:**
-  * **Cadastrar:** Adiciona novas mídias preenchendo dados específicos.
-  * **Consultar:** Localiza mídias já registradas.
-  * **Alterar:** Permite editar informações de cadastros existentes.
-  * **Excluir:** Remove registros do sistema.
+  * **Cadastrar**
+  * **Consultar**
+  * **Alterar**
+  * **Excluir**
 * **Relatório Geral:** Gera uma listagem unificada de todas as obras salvas.
 ---
 
